@@ -1,0 +1,16 @@
+#Archivos temporales Nvim/vim
+*.swp
+*.swo
+*~
+.netrwhist
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Ruby/Gemas (opcional pero recomendado)
+.bundle/
+vendor/bundle
+*.gem
+.config
+
